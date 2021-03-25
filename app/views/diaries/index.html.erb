@@ -1,0 +1,46 @@
+<% if user_signed_in? %>
+ <div class='item-contents'>
+    <h2 class='title'><p><%= @nickname %>さんの思い出</p></h2>
+    
+    <ul class='item-lists'>
+  
+  <% @diaries.each do |diary| %>
+  <li class='list'>
+  <%= link_to diary_path(diary.id) do %>
+  <div class='item-img-content'>
+ <%= image_tag diary.image, class: "item-img"  %>
+ </div>
+
+ <div class="more">
+  <span><%= image_tag 'arrow_top.png' %></span>
+  <ul class="more_list">
+
+ </div>
+
+ <div class='item-info'>
+  <h3 class='item-name'>
+    <p><%= diary.score %></p>
+  </h3>
+  </h3> 
+ <div class='item-price'>
+    <span class="name"><%= diary.created_at %></span>      
+ </div>
+    <% end %>
+   <% end %>
+ </div>    
+<% else %>
+
+<header>
+  <div class="header-logo">
+    <a href="/about">FunDiaryとは</a>
+  </div>
+</header>
+<div class="main top-main">
+  <div class="top-message">
+    <h1>日記で人生は楽しくなる</h1>
+    <h3>今を残そう</h3>
+  </div>
+</div>
+
+      <% end %>
+

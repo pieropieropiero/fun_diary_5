@@ -1,0 +1,16 @@
+<div class="contents row">
+  <div class="container">
+    <h3>編集する</h3>
+    <%= form_with(model: @diary, local: true) do |form| %>
+
+       <%= render 'shared/error_messages', model: form.object %>
+
+      <%= form.file_field :image, placeholder: "Image File" %>
+      <%= form.collection_select(:category_id, Category.all, :id, :name, {}, {class:"genre-select"}) %>
+      <%= form.text_area :text, placeholder: "text", rows: "10" %>
+      <%= form.text_field :score, placeholder: "Score" %>
+      <%= form.submit "SEND" %>
+    <% end %>
+  </div>
+</div>
+
