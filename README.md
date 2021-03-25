@@ -54,7 +54,7 @@ http://localhost:3000
 ### 1. トップページ
 <br>
 
-![top](https://user-images.githubusercontent.com/65913824/88512309-5b26f780-d021-11ea-884a-780f3fe03210.gif)
+![top](https://gyazo.com/c0aca7be109ec172514908aced58ddef)
 
 <br>
 
