@@ -83,23 +83,15 @@ http://localhost:3000
 
 <br>
 
-![sign_up1](https://user-images.githubusercontent.com/65913824/88511996-c58b6800-d020-11ea-9ca8-448e3f0b2254.png)
+<img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
 
-<br>
 
-![sign_up2](https://user-images.githubusercontent.com/65913824/88511995-c58b6800-d020-11ea-9147-ac7470919360.png)
-
-<br>
-
-![sign_up3](https://user-images.githubusercontent.com/65913824/88511993-c4f2d180-d020-11ea-91d9-10af8b65fa33.png)
-
-<br>
 
 ### 7. ログイン
 
 <br>
 
-![top](https://user-images.githubusercontent.com/65913824/88514075-67f91a80-d024-11ea-8ecb-ecdb6ecf10e0.png)
+<img width="1280" alt="スクリーンショット 2021-03-26 10 58 06" src="https://user-images.githubusercontent.com/78476130/112566632-b7495200-8e22-11eb-8648-d91dce650f18.png">
 
 <br>
 
