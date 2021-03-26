@@ -56,6 +56,7 @@ http://localhost:3000
 <img width="1280" alt="スクリーンショット 2021-03-25 22 15 12" src="https://user-images.githubusercontent.com/78476130/112565440-633d6e00-8e20-11eb-9b43-f141802a8d35.png">
 
 <br>
+
 ### 2. アプリ紹介ページ
 <br>
 <img width="1278" alt="スクリーンショット 2021-03-26 12 12 56" src="https://user-images.githubusercontent.com/78476130/112572259-25931200-8e2d-11eb-9e6d-5e7a2f6aa91a.png">
