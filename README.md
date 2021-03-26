@@ -1,4 +1,3 @@
-<img width="1280" alt="スクリーンショット 2021-03-25 23 25 42" src="https://user-images.githubusercontent.com/78476130/112565353-3be6a100-8e20-11eb-802a-fd860b80170e.png">
 ## :smile: アプリ名
   Fun_diary<br>
   <br>
