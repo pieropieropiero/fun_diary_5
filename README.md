@@ -88,8 +88,8 @@ http://localhost:3000
 
 <br>
 
-### ※. report機能（実装中）
-
+### ※ report機能（実装中）
+<img width="756" alt="スクリーンショット 2021-03-26 11 50 29" src="https://user-images.githubusercontent.com/78476130/112570526-8c163100-8e29-11eb-974c-986af4acc84a.png">
 
 <br>
 
