@@ -1,3 +1,4 @@
+<img width="1280" alt="スクリーンショット 2021-03-25 23 25 42" src="https://user-images.githubusercontent.com/78476130/112565353-3be6a100-8e20-11eb-802a-fd860b80170e.png">
 ## :smile: アプリ名
   Fun_diary<br>
   <br>
@@ -53,8 +54,7 @@ http://localhost:3000
 ## 📦実装機能
 ### 1. トップページ
 <br>
-
-![top](https://gyazo.com/c0aca7be109ec172514908aced58ddef)
+<img width="1280" alt="スクリーンショット 2021-03-25 22 15 12" src="https://user-images.githubusercontent.com/78476130/112565440-633d6e00-8e20-11eb-9b43-f141802a8d35.png">
 
 <br>
 
