@@ -56,31 +56,37 @@ http://localhost:3000
 <img width="1280" alt="スクリーンショット 2021-03-25 22 15 12" src="https://user-images.githubusercontent.com/78476130/112565440-633d6e00-8e20-11eb-9b43-f141802a8d35.png">
 
 <br>
+### 2. アプリ紹介ページ
+<br>
+<img width="1278" alt="スクリーンショット 2021-03-26 12 12 56" src="https://user-images.githubusercontent.com/78476130/112572259-25931200-8e2d-11eb-9e6d-5e7a2f6aa91a.png">
 
-### 2. 投稿一覧
+
+<br>
+
+### 3. 投稿一覧
 <br>
 <img width="1277" alt="スクリーンショット 2021-03-26 11 23 10" src="https://user-images.githubusercontent.com/78476130/112568633-1ceb0d80-8e26-11eb-906e-3cecac353dc1.png">
 
 <br>
 
-### 3. 投稿詳細
+### 4. 投稿詳細
 <br>
 <img width="1278" alt="スクリーンショット 2021-03-26 11 23 52" src="https://user-images.githubusercontent.com/78476130/112568625-19578680-8e26-11eb-8e0a-b79e15321c93.png">
 <br>
 
-### 4. 投稿 & 編集 & 削除
+### 5. 投稿 & 編集 & 削除
 <br>
 
 <img width="1270" alt="スクリーンショット 2021-03-26 11 39 38" src="https://user-images.githubusercontent.com/78476130/112569819-3ab97200-8e28-11eb-8c54-8e51b5934ab3.png">
 
 
-### 5. ユーザー新規登録
+### 6. ユーザー新規登録
 
 <br>
 
 <img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
 
-### 6. ログイン
+### 7. ログイン
 
 <br>
 
@@ -126,7 +132,9 @@ Capistranoによる自動デプロイ
 ## 📕DB設計
 
 ## 1. ER図
-  https://
+![diary](https://user-images.githubusercontent.com/78476130/112572738-2aa49100-8e2e-11eb-9f81-59d3f21db6e4.png)
+
+
 
 ## 2. 設計
 
