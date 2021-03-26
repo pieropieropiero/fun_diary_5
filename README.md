@@ -74,20 +74,13 @@ http://localhost:3000
 <img width="1270" alt="スクリーンショット 2021-03-26 11 39 38" src="https://user-images.githubusercontent.com/78476130/112569819-3ab97200-8e28-11eb-8c54-8e51b5934ab3.png">
 
 
-#### report機能（実装中）
-
-![create](https://user-images.githubusercontent.com/65913824/88512342-62e69c00-d021-11ea-9919-822d6def3cb0.gif)
-
-
-### 6. ユーザー新規登録
+### 5. ユーザー新規登録
 
 <br>
 
 <img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
 
-
-
-### 7. ログイン
+### 6. ログイン
 
 <br>
 
@@ -95,9 +88,8 @@ http://localhost:3000
 
 <br>
 
+### ※. report機能（実装中）
 
-
-### 11. ログアウト
 
 <br>
 
