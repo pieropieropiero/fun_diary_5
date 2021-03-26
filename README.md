@@ -65,7 +65,7 @@ http://localhost:3000
 
 ### 3. 投稿詳細
 <br>
-<img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
+<img width="1278" alt="スクリーンショット 2021-03-26 11 23 52" src="https://user-images.githubusercontent.com/78476130/112568625-19578680-8e26-11eb-8e0a-b79e15321c93.png">
 <br>
 
 ### 4. 投稿 & 編集 & 削除
@@ -81,8 +81,7 @@ http://localhost:3000
 
 <br>
 
-
-<img width="1280" alt="スクリーンショット 2021-03-26 11 25 48" src="https://user-images.githubusercontent.com/78476130/112568621-16f52c80-8e26-11eb-88f4-8d5111a6d18c.png">
+<img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
 
 
 
