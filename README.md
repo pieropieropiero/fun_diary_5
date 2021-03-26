@@ -71,13 +71,15 @@ http://localhost:3000
 ### 4. 投稿 & 編集 & 削除
 <br>
 
+<img width="1280" alt="スクリーンショット 2021-03-26 11 25 48" src="https://user-images.githubusercontent.com/78476130/112568621-16f52c80-8e26-11eb-88f4-8d5111a6d18c.png">
+
 
 #### report機能（実装中）
 
 ![create](https://user-images.githubusercontent.com/65913824/88512342-62e69c00-d021-11ea-9919-822d6def3cb0.gif)
 
 
-### 6. 新規登録(ウィザード形式)
+### 6. ユーザー新規登録
 
 <br>
 
@@ -100,6 +102,7 @@ http://localhost:3000
 <br>
 
 ![logout](https://user-images.githubusercontent.com/65913824/88511990-c4f2d180-d020-11ea-80b6-e57a9895332c.png)
+<img width="1270" alt="スクリーンショット 2021-03-26 11 39 38" src="https://user-images.githubusercontent.com/78476130/112569819-3ab97200-8e28-11eb-8c54-8e51b5934ab3.png">
 
 <br>
 
