@@ -60,19 +60,19 @@ http://localhost:3000
 ### 2. 投稿一覧
 <br>
 
-![index](https://user-images.githubusercontent.com/65913824/88512002-c6bc9500-d020-11ea-978e-e41f6f96adc2.png)
+<img width="1278" alt="スクリーンショット 2021-03-26 11 23 52" src="https://user-images.githubusercontent.com/78476130/112568625-19578680-8e26-11eb-8e0a-b79e15321c93.png">
 
 <br>
 
 ### 3. 投稿詳細
 <br>
 
-![show](https://user-images.githubusercontent.com/65913824/88512335-61b56f00-d021-11ea-8b3b-6f0279dd073b.gif)
-
+<img width="1280" alt="スクリーンショット 2021-03-26 11 25 48" src="https://user-images.githubusercontent.com/78476130/112568621-16f52c80-8e26-11eb-88f4-8d5111a6d18c.png">
 <br>
 
 ### 4. 投稿 & 編集 & 削除
 <br>
+<img width="1277" alt="スクリーンショット 2021-03-26 11 23 10" src="https://user-images.githubusercontent.com/78476130/112568633-1ceb0d80-8e26-11eb-906e-3cecac353dc1.png">
 
 #### report機能（実装中）
 
@@ -148,6 +148,8 @@ Capistranoによる自動デプロイ
 ### Association
 
 - has_many :diaries 
+
+
 
 ## diaries テーブル
 
