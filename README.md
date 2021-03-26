@@ -87,7 +87,7 @@ http://localhost:3000
 
 <img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
 
-### 7. ログイン
+### 7. ログイン & ログアウト
 
 <br>
 
