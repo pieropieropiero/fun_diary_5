@@ -1,4 +1,3 @@
-<img width="1280" alt="スクリーンショット 2021-03-25 23 25 42" src="https://user-images.githubusercontent.com/78476130/112565353-3be6a100-8e20-11eb-802a-fd860b80170e.png">
 ## :smile: アプリ名
   Fun_diary<br>
   <br>
@@ -58,59 +57,51 @@ http://localhost:3000
 
 <br>
 
-### 2. 投稿一覧
+### 2. アプリ紹介ページ
 <br>
+<img width="1278" alt="スクリーンショット 2021-03-26 12 12 56" src="https://user-images.githubusercontent.com/78476130/112572259-25931200-8e2d-11eb-9e6d-5e7a2f6aa91a.png">
 
-![index](https://user-images.githubusercontent.com/65913824/88512002-c6bc9500-d020-11ea-978e-e41f6f96adc2.png)
-
-<br>
-
-### 3. 投稿詳細
-<br>
-
-![show](https://user-images.githubusercontent.com/65913824/88512335-61b56f00-d021-11ea-8b3b-6f0279dd073b.gif)
 
 <br>
 
-### 4. 投稿 & 編集 & 削除
+### 3. 投稿一覧
 <br>
-
-#### report機能（実装中）
-
-![create](https://user-images.githubusercontent.com/65913824/88512342-62e69c00-d021-11ea-9919-822d6def3cb0.gif)
-
-
-### 6. 新規登録(ウィザード形式)
+<img width="1277" alt="スクリーンショット 2021-03-26 11 23 10" src="https://user-images.githubusercontent.com/78476130/112568633-1ceb0d80-8e26-11eb-906e-3cecac353dc1.png">
 
 <br>
 
-![sign_up1](https://user-images.githubusercontent.com/65913824/88511996-c58b6800-d020-11ea-9ca8-448e3f0b2254.png)
+### 4. 投稿詳細
+<br>
+<img width="1278" alt="スクリーンショット 2021-03-26 11 23 52" src="https://user-images.githubusercontent.com/78476130/112568625-19578680-8e26-11eb-8e0a-b79e15321c93.png">
+<br>
+
+### 5. 投稿 & 編集 & 削除
+<br>
+
+<img width="1270" alt="スクリーンショット 2021-03-26 11 39 38" src="https://user-images.githubusercontent.com/78476130/112569819-3ab97200-8e28-11eb-8c54-8e51b5934ab3.png">
+
+
+### 6. ユーザー新規登録
 
 <br>
 
-![sign_up2](https://user-images.githubusercontent.com/65913824/88511995-c58b6800-d020-11ea-9147-ac7470919360.png)
+<img width="1277" alt="スクリーンショット 2021-03-26 10 58 27" src="https://user-images.githubusercontent.com/78476130/112566510-77826a80-8e22-11eb-8db3-1a466970deea.png">
+
+### 7. ログイン & ログアウト
 
 <br>
 
-![sign_up3](https://user-images.githubusercontent.com/65913824/88511993-c4f2d180-d020-11ea-91d9-10af8b65fa33.png)
+<img width="1280" alt="スクリーンショット 2021-03-26 10 58 06" src="https://user-images.githubusercontent.com/78476130/112566632-b7495200-8e22-11eb-8648-d91dce650f18.png">
 
 <br>
 
-### 7. ログイン
+### ※ report機能（実装中）
+<img width="756" alt="スクリーンショット 2021-03-26 11 50 29" src="https://user-images.githubusercontent.com/78476130/112570526-8c163100-8e29-11eb-974c-986af4acc84a.png">
+report機能を使うと、1ヶ月単位の得点合計を集計します。得点を「見える化」し、把握しやすくすることで、得点を高くする行動がとりやすくなります。
 
 <br>
 
-![top](https://user-images.githubusercontent.com/65913824/88514075-67f91a80-d024-11ea-8ecb-ecdb6ecf10e0.png)
 
-<br>
-
-
-
-### 11. ログアウト
-
-<br>
-
-![logout](https://user-images.githubusercontent.com/65913824/88511990-c4f2d180-d020-11ea-80b6-e57a9895332c.png)
 
 <br>
 
@@ -142,7 +133,9 @@ Capistranoによる自動デプロイ
 ## 📕DB設計
 
 ## 1. ER図
-  https://
+![diary](https://user-images.githubusercontent.com/78476130/112572738-2aa49100-8e2e-11eb-9f81-59d3f21db6e4.png)
+
+
 
 ## 2. 設計
 
@@ -157,6 +150,8 @@ Capistranoによる自動デプロイ
 ### Association
 
 - has_many :diaries 
+
+
 
 ## diaries テーブル
 
