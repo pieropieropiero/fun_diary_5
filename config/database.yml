@@ -50,5 +50,6 @@ test:
 production:
   <<: *default
   database: fun_diary_5_production
-  username: fun_diary_5
-  password: <%= ENV['FUN_DIARY_5_DATABASE_PASSWORD'] %>
+  username: root
+  password: <%= ENV['DATABASE_PASSWORD'] %>
+  socket: /var/lib/mysql/mysql.sock
