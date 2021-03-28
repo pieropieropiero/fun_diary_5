@@ -8,7 +8,7 @@
   <br>
 
 ### 本番環境
-+ URL http://（）
++ URL http://18.181.91.16/
 + ゲスト用アカウント
     + メールアドレス: guests@guests
     + パスワード: guests
