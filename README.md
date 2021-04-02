@@ -35,7 +35,7 @@
 1. 下記コードの実行
 ```
 $ cd "インストールしたいディレクトリ"
-$ git clone https://github.com/ ※※※※※※※※※※※
+$ git clone https://github.com/pieropieropiero/fun_diary_5.git
 $ bundle install
 $ yarn install
 $ rails db:create
